@@ -1,7 +1,7 @@
 ### I'm Ricky.
 ##
 ### About
-Hobbyist computer programmer on GitHub. I will occasionally upload some bad programs.
+Hobbyist computer programmer on GitHub. I make bad programs.
 
 Currently learning and coding with [Python](https://www.python.org/).
 
