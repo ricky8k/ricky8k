@@ -3,7 +3,7 @@
 ### About
 Hobbyist computer programmer on GitHub. I make bad programs.
 
-Currently learning and coding with [Python](https://www.python.org/).
+Currently coding with [Python](https://www.python.org/).
 
 ### My Rig
 - CPU: AMD Ryzen 7 2700
