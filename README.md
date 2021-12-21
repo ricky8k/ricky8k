@@ -3,8 +3,6 @@
 ### About
 Hobbyist computer programmer on GitHub. I make bad programs.
 
-Currently coding with [Python](https://www.python.org/).
-
 ### My Rig
 - CPU: AMD Ryzen 7 2700
 - RAM: 32GB DDR4-2667
