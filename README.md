@@ -1,7 +1,7 @@
 ### I'm Ricky.
 ##
 ### About
-Code lurker. If I code it's probably bad.
+Lurker. If I code anything, it's probably bad.
 
 ### My Rig
 - CPU: AMD Ryzen 7 2700
