@@ -1,7 +1,7 @@
 ### I'm Ricky.
 ##
 ### About
-Hobbyist computer programmer on GitHub. I make bad programs.
+Code lurker. If I code it's probably bad.
 
 ### My Rig
 - CPU: AMD Ryzen 7 2700
